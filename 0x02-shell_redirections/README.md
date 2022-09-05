@@ -8,4 +8,4 @@ This is project is about linux redirection commands
 5. File 5-firstline displays the 10 first line of /etc/passwd.
 6. File 6-third_line displays the third line of the file iacta.
 7. File 7-file creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*\*:) containing the text Best School ending with anew line 
-
+8. File 8-cwd_state write a file that insert the result ofls ls -la to ls_cwd_conten overwrite the file if it has content.
