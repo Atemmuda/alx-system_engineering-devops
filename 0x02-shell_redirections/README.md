@@ -6,3 +6,4 @@ This is project is about linux redirection commands
 3. File 3-twofiles print contents of /etc/passwd and /etc/hosts.
 4. File 4-lastlines diplays the 10 last lines of /etc/passwd.
 5. File 5-firstline displays the 10 first line of /etc/passwd.
+6. File 6-third_line displays the third line of the file iacta.
