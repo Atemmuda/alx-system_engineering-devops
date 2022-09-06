@@ -18,4 +18,22 @@ This is project is about linux redirection commands
 15. File 15-countthatword count the number of lines that contain the pattern "bin" in the file /etc/passwd.
 16. File 16-whatsnext displays line containing "root" and 3 lines after them in /etc/passwd.
 17. File 17-hidethisword displays all the lines in the file /etc/passwd that do not contain the pattern "bin".
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
 
