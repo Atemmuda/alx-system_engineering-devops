@@ -23,4 +23,5 @@ This is project is about linux redirection commands
 20. File 20-hiago creates a script that removes all letters c and C from input.
 21. File 21-reverse displays reverse of its input.
 22. File 22-users_and_homes displays all users and their home directories, sorted by users.
-
+23. File 100-empty_casks finds all empty files and directories in current directory and sub-directory.
+24. 
