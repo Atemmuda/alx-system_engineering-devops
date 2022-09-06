@@ -1,7 +1,13 @@
 # CONCEPTS.
-1. Expansion.
-2. Shell Arithmetic.
-3. Variables.
-4. Shell initialization files.
-5. The alias Command.
-6. Technical Writing.
+* Expansion.
+* Shell Arithmetic.
+* Variables.
+* Shell initialization files.
+* The alias Command.
+* Technical Writing.
+
+File | Description
+---- | -----------
+0-aliaa | create a script that creates an alias
+1-hello_you | Print hello user, where user is the current Linux user
+ 
