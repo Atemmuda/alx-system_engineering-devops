@@ -16,4 +16,5 @@ This is project is about linux redirection commands
 13. FIle 13-unique list unique words as input.
 14. File 14-findthatword displays lines containing pattern "root" from the file /etc/passwd.
 15. File 15-countthatword count the number of lines that contain the pattern "bin" in the file /etc/passwd.
+16. File 16-whatsnext displays line containing "root" and 3 lines after them in /etc/passwd.
 
