@@ -11,4 +11,5 @@ This is project is about linux redirection commands
 8. File 8-cwd_state write a file that insert the result ofls ls -la to ls_cwd_conten overwrite the file if it has content.
 9. FIle 9-duplicate_last_line duplicate the last line and append to the same file.
 10. File 10-no_more_js removes all the regular js files in current directory.
-11. File 11-directories count the number of directories and sub-directories in current directory
+11. File 11-directories count the number of directories and sub-directories in current directory.
+12. FIle 12-newest_file diplays 10 newest files in the current directory one at a time and sorted from newest to oldest.
