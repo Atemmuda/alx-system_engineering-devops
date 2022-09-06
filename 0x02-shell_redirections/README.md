@@ -24,4 +24,6 @@ This is project is about linux redirection commands
 21. File 21-reverse displays reverse of its input.
 22. File 22-users_and_homes displays all users and their home directories, sorted by users.
 23. File 100-empty_casks finds all empty files and directories in current directory and sub-directory.
-24. File 101-gifs lists all files with a .gif extension in the current directories and sub-directories. 
+24. File 101-gifs lists all files with a .gif extension in the current directories and sub-directories.
+25. File 102-acrostic decode acrostics that use the first letter of each line.
+26.  
