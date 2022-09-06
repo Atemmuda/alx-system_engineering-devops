@@ -21,23 +21,4 @@ This is project is about linux redirection commands
 18. File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
 19. FIle 19-AZ replaces all characters A and c from input to Z and e respectively.
 20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-20. File 20-hiago creates a script that removes all letters c and C from input.
-
+21. File 21-reverse displays reverse of its input.
