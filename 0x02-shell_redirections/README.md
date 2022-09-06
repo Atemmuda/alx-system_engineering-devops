@@ -13,4 +13,5 @@ This is project is about linux redirection commands
 10. File 10-no_more_js removes all the regular js files in current directory.
 11. File 11-directories count the number of directories and sub-directories in current directory.
 12. FIle 12-newest_file diplays 10 newest files in the current directory one at a time and sorted from newest to oldest.
-13. FIle 13-unique list unique words as input
+13. FIle 13-unique list unique words as input.
+14. File 14-findthatword displays lines containing pattern "root" from the file /etc/passwd.
